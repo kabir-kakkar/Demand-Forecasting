@@ -3,7 +3,7 @@
 This project is a part of my industrial project at Celebal Technologies.
 
 ### Note:
-This project[https://www.kaggle.com/c/rossmann-store-sales] is not my real work but rather a gist of what I worked on during my internship. The real project is made in Databricks, Azure and Power BI.Due to confidentiality reasons, this has been uploaded.  
+This [project](https://www.kaggle.com/c/rossmann-store-sales) is not my real work but rather a gist of what I worked on during my internship. The real project is made in Databricks, Azure and Power BI.Due to confidentiality reasons, this has been uploaded.  
 
 Time Series Analysis and Forecasting with Prophet
 
