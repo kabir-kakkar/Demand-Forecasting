@@ -13,3 +13,10 @@ This [project](https://www.kaggle.com/c/rossmann-store-sales) is not my real wor
 4. Predict next 6 weeks of sales using Prophet (Facebook methodology).
 
 **Libraries used:** *__numpy, pandas, matplotlib, statsmodel, fbprophet (Facebook)*
+
+Power BI Screenshots:
+
+![image](Power BI/Capture.png)
+![image](Power BI/Capture1.png)
+![image](Power BI/Capture2.png)
+![image](Power BI/Capture3.png)
