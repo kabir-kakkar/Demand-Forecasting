@@ -16,7 +16,7 @@ This [project](https://www.kaggle.com/c/rossmann-store-sales) is not my real wor
 
 Power BI Screenshots:
 
-![image](Power BI/Capture.png)
-![image](Power BI/Capture1.png)
-![image](Power BI/Capture2.png)
-![image](Power BI/Capture3.png)
+![Capture](https://user-images.githubusercontent.com/48717801/91931194-60522300-ed00-11ea-88bc-387733c7dc7f.PNG)
+![Capture1](https://user-images.githubusercontent.com/48717801/91931197-634d1380-ed00-11ea-8757-835f96e242df.PNG)
+![Capture2](https://user-images.githubusercontent.com/48717801/91931205-65af6d80-ed00-11ea-9e95-c732a89eb234.PNG)
+![Capture3](https://user-images.githubusercontent.com/48717801/91931215-67793100-ed00-11ea-9ecd-32742d1e5675.PNG)
